@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Audio files (samples & test outputs)
+*.wav
+*.mp3
+*.flac
+*.aac
+*.ogg
+*.m4a
+*.opus
+
+# Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.spec
+
+# OS and Editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
